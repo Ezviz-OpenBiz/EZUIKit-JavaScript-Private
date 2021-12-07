@@ -40,7 +40,7 @@ UIKit，是基于萤石开放平台OpenSDK封装的UI组件，使用过程中不
         width: 600,
         height: 400,
         env: {
-          domain: "https://ezcpcloudopen.ys7.com",
+          domain: "https://ezcpcloudopen.wens.com.cn",
         }
       });
   ```
